@@ -1,4 +1,8 @@
 *.swp
+
+*.o
+*.hi
+
 *.pyc
 .DS_Store
 .Python
